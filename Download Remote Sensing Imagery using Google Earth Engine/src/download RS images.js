@@ -19,6 +19,6 @@ Export.image.toDrive({
   scale: 0.6, //0.6m spatial resolution
   maxPixels: 100000000000, //Specify higher maxPixels value if you intend to export a large area,
   region: ROI,
-  folder: 'Thesis_Data', 
+  folder: 'output', 
   description: title
 });
