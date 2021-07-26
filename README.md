@@ -1,5 +1,5 @@
-# GIS-Utilities
-This repo is a collection of GIS utilities that developed to enhance efficiency of common GIS data analytics. 
+# Utilities
+This repo is a collection of utilities that developed to enhance efficiency of common geospatial data analytics. 
 
 ## Description of Contents
 * `Convert .e00 to Shapefile`: Convert traditional ESRI ArcInfo interchange file (e00) to Shapefile.
