@@ -6,7 +6,7 @@ var naip = ee.ImageCollection('USDA/NAIP/DOQQ')
               .mosaic()
               .clip(ROI); 
 
-// CLIPPING NAIP IMAGERY BY GIVEN ROI
+// CLIPPING NAIP IMAGERY BY ROI
 var ROI2016 = naip.clip(ROI);
 var title = 'ROI2016'; //output image name
 
